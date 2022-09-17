@@ -1,5 +1,10 @@
 # Kawaii-Game-Beta
 
+Open the exe file, If you have trubble look below
+
+
+
+
 #How To Install
 
 go to settings
